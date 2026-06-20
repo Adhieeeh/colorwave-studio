@@ -1,16 +1,11 @@
-# React + Vite
+#  ColorWave — Dynamic UI Palette Engine & Accent Sandbox
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ColorWave is an interactive design utility engineered with React. It provides design prototyping environments by binding reactive multi-state color inputs directly into a live application mockup component tree, allowing engineers to benchmark text legibility, evaluate accent contrast profiles, and export compiled production CSS variable blocks instantly.
 
-Currently, two official plugins are available:
+##  Framework Core Highlights
+*  **Synchronous DOM Styling Trees:** Bridges HTML5 color picker parameters directly into inline React component variables to force instant live render styling changes.
+*  **Code Generation Routines:** Synthesizes state properties into clear production-ready `:root` layout scripts delivered straight to your clipboard.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Running Instructions
+1. Install packages: `npm install`
+2. Run ecosystem: `npm run dev`

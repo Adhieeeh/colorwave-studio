@@ -5,6 +5,8 @@ ColorWave is an interactive design utility engineered with React. It provides de
 -----------------------------------------------------
 
 ## Preview
+
+
 ##  Framework Core Highlights
 *  **Synchronous DOM Styling Trees:** Bridges HTML5 color picker parameters directly into inline React component variables to force instant live render styling changes.
 *  **Code Generation Routines:** Synthesizes state properties into clear production-ready `:root` layout scripts delivered straight to your clipboard.

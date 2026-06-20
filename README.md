@@ -15,3 +15,4 @@ ColorWave is an interactive design utility engineered with React. It provides de
 ##  Running Instructions
 1. Install packages: `npm install`
 2. Run ecosystem: `npm run dev`
+
